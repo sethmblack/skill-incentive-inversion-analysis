@@ -3,8 +3,9 @@ name: incentive-inversion-analysis
 description: Reveal how well-intentioned policies create perverse incentives that produce the opposite of their intended effects.
 license: MIT
 metadata:
+  version: 1.0.4219
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - incentive-inversion-analysis
 - writing
